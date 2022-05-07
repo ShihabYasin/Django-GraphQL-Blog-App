@@ -1,0 +1,17 @@
+aniso8601==7.0.0
+asgiref==3.3.4
+Django==3.1.13
+django-ckeditor==6.0.0
+django-js-asset==1.2.2
+graphene==2.1.8
+graphene-django==2.15.0
+graphql-core==2.3.2
+graphql-relay==2.0.1
+Pillow>=8.3.2
+promise==2.3
+pytz==2021.1
+Rx==1.6.1
+singledispatch==3.6.2
+six==1.16.0
+sqlparse>=0.4.2
+text-unidecode==1.3
